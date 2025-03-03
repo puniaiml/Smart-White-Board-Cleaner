@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "224376696421",
+    "firebase_url": "https://boardcleaner-d2519-default-rtdb.firebaseio.com",
+    "project_id": "boardcleaner-d2519",
+    "storage_bucket": "boardcleaner-d2519.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224376696421:android:d6e83dd56f3bc51b51a08c",
+        "android_client_info": {
+          "package_name": "com.example.board_cleaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhCFuYhTbX4LvRIV2OSQcsqq73qzc8-vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
